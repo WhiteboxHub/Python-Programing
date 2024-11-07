@@ -91,6 +91,22 @@ Write a function outer that returns an inner function. The inner function should
 '''
 Write a generator function count_up_to(n) that yields numbers from 1 to n.
 '''
+# def count_up_to(n):
+#     count = 1
+#     while count <= n:
+#         yield count
+#         count += 1
+
+# # Test case
+# for num in count_up_to(5):
+#     print(num)
+# # Output:
+# # 1
+# # 2
+# # 3
+# # 4
+# # 5
+
 
 
 
